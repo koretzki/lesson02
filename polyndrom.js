@@ -10,4 +10,4 @@ function isPolyndrom(word) {
     }
     return true;
 }
-console.log('result is', isPolyndrom('aa'))
+console.log('result is', isPolyndrom('aa'));
